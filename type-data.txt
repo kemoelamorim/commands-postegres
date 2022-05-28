@@ -1,0 +1,19 @@
+## trabalhando com números
+integer -> Número inteiro com limites de: (-21247483648, 21247483648)
+real -> até 6 dígitos de precisão
+serial -> auto incremente 
+numeric -> podemos especificar quantas casas decimais o número vai possuir
+
+## trabalhando com texto
+varchar(n) -> tamanho pré determinado
+char(n) -> quando eu já sei o tamanho 
+text -> quando não sabemos o tamanho do texto
+
+## trabalhando com boolean
+boolean -> quando eu preciso gardar valor verdadeiro ou falso
+
+## outros tipos 
+data 
+time
+timestamp
+
